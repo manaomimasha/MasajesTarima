@@ -1,0 +1,60 @@
+body {
+    box-sizing: border-box;
+    margin:0;
+    font-family: 'Playfair Display', serif;
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
+  }
+  
+  h1 {
+    background-color:linen ; color: black;
+    /* background-image: url(material/velas.jpg  ) ; */
+    font-size: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+    margin: 0;
+    width: 70%;
+    
+   margin: 20px 20px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding:20px ;
+  }
+  
+  .contenedor {
+   width: 70%;
+   margin: 20px 20px;
+  }
+  
+  .info {
+    min-width: 100px;
+     padding: 30px;
+    /* margin: solid black 0.3px ; */
+    background-color: bisque;
+    text-align: center;
+  }
+  
+  .info h {
+    font-family: 'Raleway', sans-serif;
+     font-weight: 600;
+  }
+  /* 
+  .contenedor1 {
+    width: 30%;
+    padding: 1px 330px;
+  } */
+  
+  .calendly {
+    width: cover;
+    height: 500px;
+  }
+
+  .Pl9F4D0kOr1s0KUQ1VhD {
+    height: 1000px;
+  }
